@@ -15,9 +15,10 @@
 #endif
 
 #define GOLDHEN_PATH                "/data/GoldHEN"
+#define HEN_PATH                    "/data/hen"
 #define GOLDCHEATS_DATA_PATH        GOLDHEN_PATH "/cheats/"
-#define GOLDCHEATS_PATCH_PATH       GOLDHEN_PATH "/patches/"
-#define GOLDCHEATS_PLUGINS_PATH     GOLDHEN_PATH "/plugins/"
+#define GOLDCHEATS_PATCH_PATH       HEN_PATH "/patches/"
+#define GOLDCHEATS_PLUGINS_PATH     HEN_PATH "/plugins/"
 #define GOLDPATCH_SETTINGS_PATH     GOLDCHEATS_PATCH_PATH "settings/"
 
 #define GOLDCHEATS_BACKUP_PREFIX    "GH-cheats"
